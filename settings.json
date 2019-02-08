@@ -1,0 +1,6 @@
+{
+        "servicerestart":"./bin/x64/factorio --start-server"
+       
+
+        
+}
